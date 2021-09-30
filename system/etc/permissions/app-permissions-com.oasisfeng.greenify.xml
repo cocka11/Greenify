@@ -1,5 +1,5 @@
 <permissions>
-  <app-permissions package="com.oasisfeng.greenify">
+  <priv-app-permissions package="com.oasisfeng.greenify">
     	<permission name="android.permission.FOREGROUND_SERVICE"/>
 	<permission name="android.permission.GET_TASKS"/>
 	<permission name="android.permission.REAL_GET_TASKS"/>
@@ -21,5 +21,5 @@
 	<permission name="android.permission.INTERACT_ACROSS_USERS"/>
 	<permission name="android.permission.WAKE_LOCK"/>
 	<permission name="android.permission.GET_APP_OPS_STATS"/>
-  </app-permissions>
+  </priv-app-permissions>
 </permissions>
